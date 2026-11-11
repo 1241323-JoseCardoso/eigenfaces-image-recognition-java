@@ -1,1 +1,0 @@
-# eigenfaces-image-recognition-java
